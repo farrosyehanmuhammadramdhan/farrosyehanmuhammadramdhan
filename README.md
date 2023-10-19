@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @farrosyehanmuhammadramdhan
-- 👀 I’m interested in Design
-- 🌱 I’m currently learning UI/UX Designer
+- 👀 I’m interested in Design & Code
+- 🌱 I’m currently learning Front-End Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
