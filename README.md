@@ -9,7 +9,25 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farrosyehanmuhammadramdhan" alt="farrosyehanmuhammadramdhan" /></a> </pimg>
 </p>
 
-<img width="150" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+- 🔭 I’m currently study on **IDN Boarding School Solo**
+
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Tailwind**
+
+- 👯 I’m looking to collaborate on **Open Source Project**
+
+- 🤝 I’m looking for help with **People Around The World**
+
+- 👨‍💻 All of my projects are available at [https://github.com/farrosyehanmuhammadramdhan](https://github.com/farrosyehanmuhammadramdhan)
+
+- 📝 I regularly write articles on [-](-)
+
+- 💬 Ask me about **Tailwind CSS**
+
+- 📫 How to reach me **farrosyehanidnsolo@gmail.com**
+
+- 📄 Know about my experiences [-](-)
+- ⚡ Fun fact **a Otaku who likes Tailwind CSS Framework and likes anime :v**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
