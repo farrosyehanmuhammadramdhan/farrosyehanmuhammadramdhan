@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently study on **IDN Boarding School Solo**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Tailwind**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Tailwind, Laravel**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
@@ -40,6 +40,7 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-tailwind-css-5285308-4406745.png?f=webp" alt="Tailwind" width="40" height="40"/> </a> 
+  <a href="https://laravel.com/#authorization" targettarget="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/399/620/png-transparent-laravel-hd-logo.png" alt="Laravel" width="40" height="40"/> </a> 
 </p>
 
 <p align="center">
