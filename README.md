@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farrosyehanmuhammadramdhan" alt="farrosyehanmuhammadramdhan" /></a> </pimg>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farrosyehanmuhammadramdhan" alt="farrosyehanmuhammadramdhan" /></a> </img>
 </p>
 
 - 🔭 I’m currently study on **IDN Boarding School Solo**
