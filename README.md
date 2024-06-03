@@ -48,5 +48,5 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=farrosyehanmuhammadramdhan&show_icons=true&locale=id"bg_color=808080&hide_border=true"alt="farrosyehanmuhammadramdhan"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrosyehanmuhammadramdhan&locale=id"bg_color=808080&hide_border=true"alt="farrosyehanmuhammadramdhan"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosyehanmuhammadramdhan&hide_progress=true&locale=id"bg_color=808080&hide_border=true" width="20000"alt="farrosyehanmuhammadramdhan"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosyehanmuhammadramdhan&hide_progress=true"bg_color=808080&hide_border=true" alt="farrosyehanmuhammadramdhan"/>
 </p>
