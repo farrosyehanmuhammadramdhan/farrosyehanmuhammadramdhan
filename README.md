@@ -17,8 +17,6 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/farrosyehanmuhammadramdhan](https://github.com/farrosyehanmuhammadramdhan)
 
-- 📝 I regularly write articles on [-](-)
-
 - 💬 Ask me about **Tailwind CSS**
 
 - 📫 How to reach me **farrosyehanidnsolo@gmail.com**
