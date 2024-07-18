@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently study on **IDN Boarding School Solo**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Tailwind, Laravel**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Tailwind, Laravel, Flutter**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
@@ -17,12 +17,12 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/farrosyehanmuhammadramdhan](https://github.com/farrosyehanmuhammadramdhan)
 
-- 💬 Ask me about **Tailwind CSS**
+- 💬 Ask me about **Tailwind CSS, Flutter**
 
 - 📫 How to reach me **farrosyehanidnsolo@gmail.com**
 
 - 📄 Know about my experiences [-](-)
-- ⚡ Fun fact **a Otaku who likes Tailwind CSS Framework and likes anime :v**
+- ⚡ Fun fact **a Otaku who likes Tailwind CSS & Flutter and likes anime :v**
 
 
 <h3 align="left">Connect with me:</h3>
