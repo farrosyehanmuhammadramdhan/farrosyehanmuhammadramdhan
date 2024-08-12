@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently study on **IDN Boarding School Solo**
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Tailwind, Laravel, Flutter**
+- 🌱 I’m currently learning **HTML, CSS, Javascript, Tailwind, Laravel, Flutter, Dart**
 
 - 👯 I’m looking to collaborate on **Open Source Project**
 
