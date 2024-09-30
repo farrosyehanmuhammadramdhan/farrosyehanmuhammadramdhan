@@ -40,7 +40,7 @@
   <a href="https://www.w3schools.com/css/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://dart.dev/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="blank"><img src="https://cdn.iconscout.com/icon/free/png-256/free-tailwind-css-5285308-4406745.png?f=webp" alt="Tailwind" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Light.svg" alt="Tailwind" width="40" height="40"/></a>
   <a href="https://getbootstrap.com/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/></a>
   <a href="https://flutter.dev/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="Flutter" width="40" height="40"/></a>
   <a href="https://laravel.com/#authorization" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Light.svg" alt="Laravel" width="40" height="40"/></a> 
