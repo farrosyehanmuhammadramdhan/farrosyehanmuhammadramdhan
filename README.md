@@ -46,6 +46,7 @@
   <a href="https://laravel.com/#authorization" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/></a> 
   <a href="https://www.figma.com/"target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://code.visualstudio.com/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="git" width="40" height="40"/></a>
 </p>
 
 <p align="center">
