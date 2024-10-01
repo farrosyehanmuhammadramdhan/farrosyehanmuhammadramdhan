@@ -29,9 +29,9 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/farrosyehan-muhammad-ramdhan-570914285" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="40" width="40" /></a>
 <a href="https://www.instagram.com/farrosyehanmuhammadramdhan_85/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="" height="40" width="40" /></a>  
-<a href="https://www.facebook.com/farrosyehan85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="30" width="40" /></a>
 <a href="" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.youtube.com/channel/UCO543PTu1mY9J5sdMZB1IjA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="https://www.facebook.com/farrosyehan85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCO543PTu1mY9J5sdMZB1IjA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
