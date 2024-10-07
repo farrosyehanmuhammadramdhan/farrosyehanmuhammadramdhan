@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Farrosyehan Muhammad Ramdhan</h1>
-<h3 align="center">A passionate Front-End Developer from Sidoarjo, Indonesia</h3>
+<h3 align="center">A passionate Flutter Developer from Sidoarjo, Indonesia</h3>
 
 
 <p align="center">
