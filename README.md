@@ -53,4 +53,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=farrosyehanmuhammadramdhan&show_icons=true&locale=id"bg_color=808080&hide_border=true"alt="farrosyehanmuhammadramdhan"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=farrosyehanmuhammadramdhan&locale=id"bg_color=808080&hide_border=true"alt="farrosyehanmuhammadramdhan"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosyehanmuhammadramdhan&hide_progress=true"bg_color=808080&hide_border=true" alt="farrosyehanmuhammadramdhan"/>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65dffa9c8947e435e74d30c4?variant=dark&roadmaps=frontend%2Cflutter" alt="roadmap.sh"/></a>
 </p>
