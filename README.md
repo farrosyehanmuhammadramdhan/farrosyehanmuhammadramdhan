@@ -1,58 +1,34 @@
+# 💫About Me :
+🔭 I’m currently study on IDN Boarding School Solo
 
-<h1 align="center">Hi 👋, I'm Farrosyehan Muhammad Ramdhan</h1>
-<h3 align="center">A passionate Flutter Developer from Sidoarjo, Indonesia</h3>
+🌱 I’m currently learning HTML, CSS, Javascript, Tailwind, Laravel, Flutter, Dart
 
+👯 I’m looking to collaborate on Open Source Project
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farrosyehanmuhammadramdhan" alt="farrosyehanmuhammadramdhan" /></a> </img>
-</p>
+🤝 I’m looking for help with People Around The World
 
-- 🔭 I’m currently study on **IDN Boarding School Solo**
+👨‍💻 All of my projects are available at https://github.com/farrosyehanmuhammadramdhan
 
-- 🌱 I’m currently learning **HTML, CSS, Javascript, Tailwind, Laravel, Flutter, Dart**
+💬 Ask me about Tailwind CSS, Flutter
 
-- 👯 I’m looking to collaborate on **Open Source Project**
+📫 How to reach me farrosyehanidnsolo@gmail.com
 
-- 🤝 I’m looking for help with **People Around The World**
+📄 Know about my experiences -
 
-- 👨‍💻 All of my projects are available at [https://github.com/farrosyehanmuhammadramdhan](https://github.com/farrosyehanmuhammadramdhan)
+⚡ Fun fact a Otaku who likes Tailwind CSS & Flutter and likes anime
 
-- 💬 Ask me about **Tailwind CSS, Flutter**
+## 🌐Socials
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/farrosyehan85) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/farrosyehanmuhammadramdhan_85) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/farrosyehan-muhammad-ramdhan-570914285/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCO543PTu1mY9J5sdMZB1IjA) 
 
-- 📫 How to reach me **farrosyehanidnsolo@gmail.com**
+# 💻Tech Stack
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white)
+# 📊GitHub Stats :
+![](https://github-readme-stats.vercel.app/api?username=farrosyehanmuhammadramdhan&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=farrosyehanmuhammadramdhan&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=farrosyehanmuhammadramdhan&theme=synthwave&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-- 📄 Know about my experiences [-](-)
-- ⚡ Fun fact **a Otaku who likes Tailwind CSS & Flutter and likes anime :v**
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=farrosyehanmuhammadramdhan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/farrosyehan-muhammad-ramdhan-570914285" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="" height="40" width="40" /></a>
-<a href="https://www.instagram.com/farrosyehanmuhammadramdhan_85/" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="" height="40" width="40" /></a>  
-<a href="https://github.com/farrosyehanmuhammadramdhan" target="blank"><img  align= "center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="Github" width="40" height="40"/></a>
-<a href="https://discordapp.com/users/1184816974019182643" target="blank"><img  align= "center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="Discord" width="40" height="40"/></a>
-<a href="https://www.facebook.com/farrosyehan85/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCO543PTu1mY9J5sdMZB1IjA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Youtube" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5" width= "40", height= "40"/></a>
-  <a href="https://www.w3schools.com/css/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3" width="40" height="40"/></a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://dart.dev/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Dart-Dark.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" alt="Tailwind" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://flutter.dev/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flutter-Dark.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://laravel.com/#authorization" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40"/></a> 
-  <a href="https://www.figma.com/"target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg" alt="figma" width="40" height="40"/></a> 
-  <a href="https://git-scm.com/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="git" width="40" height="40"/></a>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=farrosyehanmuhammadramdhan&show_icons=true&locale=id"bg_color=808080&hide_border=true"alt="farrosyehanmuhammadramdhan"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=farrosyehanmuhammadramdhan&locale=id"bg_color=808080&hide_border=true"alt="farrosyehanmuhammadramdhan"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farrosyehanmuhammadramdhan&hide_progress=true"bg_color=808080&hide_border=true" alt="farrosyehanmuhammadramdhan"/>
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/65dffa9c8947e435e74d30c4?variant=dark&roadmaps=frontend%2Cflutter" alt="roadmap.sh"/></a>
-</p>
+---
+[![](https://visitcount.itsvg.in/api?id=farrosyehanmuhammadramdhan&icon=1&color=0)](https://visitcount.itsvg.in)
